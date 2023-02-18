@@ -5,7 +5,7 @@ export default function App() {
   
   return (
     <View style={styles.container}>
-      <Text style={styles.texto}>Edu Aqui</Text>
+      <Text style={styles.texto}>Edu Aqui, tudo bem?</Text>
     </View>
   );
 }
